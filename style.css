@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#Outer-div{
+    margin:164px;
+    height:200px;
+    width: 400px;
+    
+    
+}
+#inner-upperdiv{
+ margin: 16px;
+}
+
+img{
+   height: 152px; 
+   width: 336px;;
+}
+#button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    padding-top: 6px;
+    padding-bottom:6px ;
+    padding-left: 16px;
+    padding-right: 16px;
+    color: #883AE1;
+    margin-bottom: 16px;
+}
