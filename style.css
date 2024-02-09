@@ -2,6 +2,10 @@
     padding: 0;
     margin:0;
 }
+body {
+    font-family: 'Sora', sans-serif;
+  }
+  
 #Outer-div{
     margin: 200px 500px 200px 500px;
     border-radius: 10px;
@@ -20,6 +24,8 @@ button{
 border-radius: 50px;
 padding : 6px 16px 6px 16px;
 margin:16px 0px 16px 0px;
+color: #883AE1;
+background-color: #E6D6FC;
 }
 p{
     margin:6px 0px 20px 0px;
